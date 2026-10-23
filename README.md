@@ -110,9 +110,4 @@ PhoneControllerTool/
 * كليك يمين للرجوع للخلف، وسكرول ناعم بالأسهم وبكرة الماوس.
 * تحكم في الصوت والإضاءة والتطبيقات المفتوحة واختصارات الويندوز المعتادة.
 
----
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-Powered by [scrcpy](https://github.com/Genymobile/scrcpy) and Android Debug Bridge (ADB).
